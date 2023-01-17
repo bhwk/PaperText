@@ -50,6 +50,9 @@ const NavBar = () => {
 				<Link href={'/create/'} className='btn'>
 					Create
 				</Link>
+				<Link href={'/texteditor/'} className='btn'>
+					TextEditor
+				</Link>
 			</div>
 			<div className='mx-2'>
 				<input
